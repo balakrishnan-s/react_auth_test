@@ -15,10 +15,9 @@ const styles = {
       padding: 5,
       backgroundColor: '#fff',
       justifyContent: 'flex-start',
-      flexDirectoin: 'row',
       borderColor: '#ddd',
       position: 'relative'
   }
 };
 
-export default Cardsection;
+export { Cardsection };

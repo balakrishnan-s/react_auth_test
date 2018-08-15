@@ -15,11 +15,11 @@ const Header = (probs) => {
 
 const styles = {
   viewStyle: {
-    backgroundColor: '#a8c6f7',
+    backgroundColor: '#fdd835',
     justifyContent: 'center',
     alignItems: 'center',
     height: 60,
-    shadowColor: '#000',
+    shadowColor: '#000000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2
   },
